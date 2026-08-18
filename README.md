@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I'm currently working on — KWIK, building AI-powered tools using the Claude API to automate GST, tax, and audit workflows for CAs<br><br>🤝 I'm looking to collaborate on — AI agents & RAG-based tools for finance/tax automation, and Excel/browser-extension tools for real CA use cases<br><br>🌱 I'm currently learning — Advanced Direct & Indirect Tax Laws, Strategic Financial Management, and AI Agent development (Microsoft Copilot Studio)<br><br>💬 Ask me about — GST compliance, Income Tax filing, statutory audit, or automating repetitive CA workflows with AI<br><br>⚡ Fun fact — I run e-commerce brands on Meesho & Flipkart on the side, handling their entire GST reconciliation and finance ops myself
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1600&size=28&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=SAMEER;" alt="Typing SVG" />
+
+  <br/>
+
 
 
 ## 🌐 Socials:
