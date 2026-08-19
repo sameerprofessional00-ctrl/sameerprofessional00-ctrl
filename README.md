@@ -1,4 +1,4 @@
-![CA](https://img.shields.io/badge/CharteredAccountant%20‑In%20Progress-brightgreen?logo=government&logoColor=white)
+![CA](https://img.shields.io/badge/Chartered%20Accountant%20‑In%20Progress-brightgreen?logo=government&logoColor=white)
 
 
 <div align="center">
